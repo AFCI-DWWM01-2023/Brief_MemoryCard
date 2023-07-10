@@ -26,9 +26,9 @@ Le score représente le nombre de coups tentés.
 
 ![Image initiale](profile/img/2-1.jpg)
 
-![Image2](profile/img/3-1.jpg)&nbsp;&nbsp;
+![Image2](profile/img/3-1.jpg)
 
-![Image3](profile/img/1-1.jpg)&nbsp;&nbsp;
+![Image3](profile/img/1-1.jpg)
 
 
 
