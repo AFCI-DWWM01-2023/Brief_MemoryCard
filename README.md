@@ -9,3 +9,10 @@ Le score représente le nombre de coups tentés.
 > <br>
 > Puis codez les fonctionnalités JavaScript.
 <br>
+
+### B. Fonctionnalités JavaScript à coder pour ce projet
+1. Placez les cartes dans un ordre aléatoire à chaque fois qu'on arrive sur la page.
+2. On doit pouvoir cliquer sur deux cartes qui devront se retourner.<br>Lorsque les deux cartes son visibles, elles se retournent au bout de 1,5 seconde si elles ne correspondent pas à une paire.
+3. Laissez les cartes visibles lorsqu'elles correspondent à une paire.
+4. Incrémentez le score en fonction du nombre d'essais.
+5. Lorsque toutes les paires sont trouvées, c'est gagné, proposez de recommencer la partie en appuyant sur "espace".
