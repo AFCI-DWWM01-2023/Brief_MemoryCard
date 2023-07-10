@@ -8,5 +8,4 @@ Le score représente le nombre de coups tentés.
 > Rajoutez un peu de style si besoin est.
 > > <br>
 > Puis codez les fonctionnalités JavaScript.
->
 <br>
