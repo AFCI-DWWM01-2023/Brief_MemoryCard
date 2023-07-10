@@ -4,4 +4,4 @@ Le but est de pouvoir cliquer sur les cartes afin d'apercevoir l'icône qu'elles
 Le score représente le nombre de coups tentés.
 <br>
 ### dans un premier temps, vous devez coder une interface basique
->Codez d'abord une interface très simple, contenant les éléments importants : boutons, inputs, liens, etc...<br/>
+> Codez d'abord une interface très simple, contenant les éléments importants : boutons, inputs, liens, etc...<br/>
