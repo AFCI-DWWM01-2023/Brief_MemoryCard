@@ -16,3 +16,5 @@ Le score représente le nombre de coups tentés.
 3. Laissez les cartes visibles lorsqu'elles correspondent à une paire.
 4. Incrémentez le score en fonction du nombre d'essais.
 5. Lorsque toutes les paires sont trouvées, c'est gagné, proposez de recommencer la partie en appuyant sur "espace".
+
+<br>
