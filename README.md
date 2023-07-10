@@ -18,4 +18,5 @@ Le score représente le nombre de coups tentés.
 5. Lorsque toutes les paires sont trouvées, c'est gagné, proposez de recommencer la partie en appuyant sur "espace".
 
 <br>
+
 ### C. Ajoutez du style à l'interface afin de terminer le projet.
