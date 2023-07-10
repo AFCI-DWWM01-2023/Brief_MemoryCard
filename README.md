@@ -22,9 +22,7 @@ Le score représente le nombre de coups tentés.
 
 <br>
 
-### C. Ajoutez du style à l'interface afin de terminer le projet.
-
-![Image initiale](profile/img/2-1.jpg) ![Image2](profile/img/3-1.jpg)
+### C. Ajoutez du style à l'interface afin de terminer le projet![Image initiale](profile/img/2-1.jpg) ![Image2](profile/img/3-1.jpg)
 ![Image3](profile/img/1-1.jpg)
 
 
