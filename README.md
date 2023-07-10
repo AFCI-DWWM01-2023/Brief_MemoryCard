@@ -6,6 +6,6 @@ Le score représente le nombre de coups tentés.
 ### Dans un premier temps, vous devez coder une interface basique
 > Codez d'abord une interface très simple, contenant les éléments importants : boutons, inputs, liens, etc...<br/>
 > Rajoutez un peu de style si besoin est.
-> > <br>
+> <br>
 > Puis codez les fonctionnalités JavaScript.
 <br>
